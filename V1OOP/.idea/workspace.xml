@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e8a98afc-c2e0-4ca4-a41f-ff2138203633" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="24pNh9K3AnA5ecKf2Oyv8qQrVNr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/practium_3a" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gebruiker\Desktop\OOP\V1OOP\src\practium_3a" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="practium_3a" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VoetbalclubTest">
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="practium_3a.Main" />
+      <module name="V1OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practium_3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="week1.les1.opdracht1.main" />
+      <module name="V1OOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoetbalclubTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="V1OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practium_3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practium_3a" />
+      <option name="MAIN_CLASS_NAME" value="practium_3a.VoetbalclubTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoetbalclubTest.testGespeeld" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="V1OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practium_3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practium_3a" />
+      <option name="MAIN_CLASS_NAME" value="practium_3a.VoetbalclubTest" />
+      <option name="METHOD_NAME" value="testGespeeld" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoetbalclubTest.testPunten" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="V1OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practium_3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practium_3a" />
+      <option name="MAIN_CLASS_NAME" value="practium_3a.VoetbalclubTest" />
+      <option name="METHOD_NAME" value="testPunten" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoetbalclubTest.testToString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="V1OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practium_3a.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practium_3a" />
+      <option name="MAIN_CLASS_NAME" value="practium_3a.VoetbalclubTest" />
+      <option name="METHOD_NAME" value="testToString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Unnamed" />
+      <item itemvalue="JUnit.VoetbalclubTest.testGespeeld" />
+      <item itemvalue="JUnit.VoetbalclubTest.testPunten" />
+      <item itemvalue="Application.Main (2)" />
+      <item itemvalue="JUnit.VoetbalclubTest.testToString" />
+      <item itemvalue="JUnit.VoetbalclubTest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VoetbalclubTest" />
+        <item itemvalue="JUnit.VoetbalclubTest.testToString" />
+        <item itemvalue="JUnit.VoetbalclubTest.testGespeeld" />
+        <item itemvalue="JUnit.VoetbalclubTest.testPunten" />
+        <item itemvalue="Application.Main (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e8a98afc-c2e0-4ca4-a41f-ff2138203633" name="Default Changelist" comment="" />
+      <created>1644323685919</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644323685919</updated>
+    </task>
+    <servers />
+  </component>
+</project>
