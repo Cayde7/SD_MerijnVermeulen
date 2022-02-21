@@ -7,6 +7,12 @@ import static org.junit.jupiter.api.Assertions.*;
 class VoetbalclubTest {
 
     @Test
+    public void testGetClubnaam(){
+        Voetbalclub twente = new Voetbalclub("FC Twente");
+        assertEquals("FC Twente", twente.getClubnaam());
+    }
+
+    @Test
     public void testEmptyClubnaam(){
         Voetbalclub ajx = new Voetbalclub("");
         assertEquals("FC", ajx.getClubnaam());
@@ -43,5 +49,7 @@ class VoetbalclubTest {
         twente.verwerkResultaat('v');
         assertEquals("FC Twente 5 2 1 2 7", twente.toString());
     }
+
+
 
 }
